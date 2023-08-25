@@ -1,33 +1,46 @@
 # Ecommerce-Website-With-HTML-CSS-JavaScript
 
-[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />](https://youtu.be/P8YuWEkTeuE/)
+This is a Fully Responsive Ecommerce Website! This platform provides an intuitive and seamless online shopping experience across all devices. 
+* Whether you're browsing on a desktop, tablet, or smartphone, our website ensures that you can explore, select, and purchase products with ease. This README will guide you through the key features and technologies used to create this responsive, multipage ecommerce website.
 
-## About this course
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
 
-## Why This Course?
-- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
-- Completely For Beginners.
-- Multipage Ecommerce Website Project.
-- Best Beginner Friendly Free Course On YouTube.
-- Learn How to build amazing professional and responsive websites.
-- Learn the fundamentals of web design.
+## Intro
+- This Ecommerce Website aims to provide users with a consistent and enjoyable shopping experience, regardless of the device they use. From browsing through products to making secure payments, the website offers a range of features to enhance the user experience.
+
+## Features
+  Responsive Home Page Design.
+- Shop Page & Single Product Page.
+- Blog Page.
+- About Page.
+- Contact Us.
+- Ecommerce Shopping Cart.
+
 - Modern CSS, including flexbox and CSS Grid for layout.
 - Modern CSS techniques to create stunning designs and effects.
-- How to use common components and layout patterns for professional website design and development.
+- Used common components and layout patterns for professional website design and development.
 - Advanced responsive design using media queries.
-- And Many More.
 
-## Sections
-- Part1: Responsive Home Page Design.
-- Part2: Shop Page & Single Product Page.
-- Part3: Blog Page.
-- Part4: About Page.
-- Part5: Contact Us.
-- Part6: Ecommerce Shopping Cart.
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
 
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/50932).
+## Technologies Used
+* Frontend: HTML5, CSS3, JavaScript
+* Authentication: JSON Web Tokens (JWT), OAuth
+* Payment: Other payment gateways
+* Version Control: Git, GitHub
+* Deployment: Netlify
 
-Get the full source code from [here2](https://ko-fi.com/s/06e4db9e09).
+## Getting Started
+Clone the repository: 
+```
+git clone https://github.com/Gichbuoy/Ecommerce-website.git
+```
+
+## Responsive Design
+The website is designed using responsive techniques to adapt to different screen sizes. Media queries, flexible layouts, and fluid images ensure that the website looks and functions seamlessly on desktops, tablets, and smartphones.
+
+## Contributing
+I welcome contributions from the community! If you'd like to contribute to the project, please fork the repository, create a new branch, make your changes, and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
